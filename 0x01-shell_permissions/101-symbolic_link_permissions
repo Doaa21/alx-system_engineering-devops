@@ -1,2 +1,2 @@
 #!/bin/bash
-Chown -h "Vincent:Staff_Hello"
+chown -h "Vincent:Staff_Hello"
